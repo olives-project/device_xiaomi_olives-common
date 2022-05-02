@@ -372,6 +372,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     TetheringConfigOverlay
 
+# Via Browser
+PRODUCT_PACKAGES += \
+    ViaBrowser
+
 # Vibrator
 PRODUCT_PACKAGES += \
     android.hardware.vibrator@1.0-impl \
